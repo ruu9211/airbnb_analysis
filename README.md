@@ -22,8 +22,8 @@ By putting everything in one place, my friend could quickly explore options and 
 The Tableau dashboard includes the following views:
 
 - 🗺 **Total Listings Map** – Visualizes where listings are located across the GTA.  
-- 💵 **Average Price per Bedroom (Bar Chart)** – Compares affordability based on room size.  
-- 🛏 **Total Listings by Number of Beds (Bar Chart)** – Highlights the supply of different-sized rentals.  
+- 💵 **Average Price per Bedroom** – Compares affordability based on room size.  
+- 🛏 **Total Listings by Number of Beds** – Highlights the supply of different-sized rentals.  
 - 📍 **Average Price by Neighbourhood** – Breaks down pricing trends at the neighbourhood level.  
 - ⭐ **Top 20 Neighbourhoods by Average Location Score** – Shows which areas guests rate highest for location.  
 
@@ -32,3 +32,10 @@ The Tableau dashboard includes the following views:
 ## 🔗 Interactive Dashboard
 👉 Explore the full dashboard here:  
 [Airbnb GTA Dashboard on Tableau Public](https://public.tableau.com/app/profile/isuru.abeysuriya/viz/AirBnBDashboard_17575248832120/Dashboard1)
+
+---
+
+## 🛠️ Tools & Dataset
+- **Tableau** → for interactive data visualization  
+- **Dataset** → *Inside Airbnb* — data from the “Get the Data” section for Toronto / GTA.  
+  Download link: [Inside Airbnb – Get the Data](https://insideairbnb.com/get-the-data/) 
