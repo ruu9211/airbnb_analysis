@@ -1,14 +1,12 @@
 # 🏠 Airbnb Dashboard — Greater Toronto Area (GTA)
 
 ## 📌 Project Overview
-This project explores Airbnb listings in the **Greater Toronto Area (GTA)** through a Tableau dashboard.  
-The goal was to provide meaningful insights into pricing, availability, and neighbourhood quality for short-term rentals across the GTA.
+This project explores Airbnb listings in the **Greater Toronto Area (GTA)** through a Tableau dashboard. The goal was to provide meaningful insights into pricing, availability, and neighbourhood quality for short-term rentals across the GTA.
 
 ---
 
 ## 🎯 Why I Built This Dashboard
-Earlier this year, a friend of mine was visiting Toronto from abroad and asked for advice on where to stay.  
-Instead of giving broad recommendations, I decided to analyze **Airbnb listings across the GTA** and create a **dashboard** that could answer their questions directly:
+Earlier this year, a friend of mine was visiting Toronto from abroad and asked for advice on where to stay. Instead of giving broad recommendations, I decided to analyze **Airbnb listings across the GTA** and create a **dashboard** that could answer their questions directly:
 
 - Which neighbourhoods are the most popular for Airbnbs?  
 - How much should they expect to pay per bedroom?  
